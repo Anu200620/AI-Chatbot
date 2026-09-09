@@ -67,6 +67,7 @@ The demo video demonstrates the chatbot interface and its basic interactions.
 
 📸 Screenshots
 AI Chat Assistant
+![AI Chat Assistant](screenshot.jpeg)
 
 🎯 Project Highlights
 
