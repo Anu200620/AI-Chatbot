@@ -60,7 +60,8 @@ Help
 Bye
 
 🎥 Demo Video
-▶️ Watch Demo VideO
+▶️ Watch Demo Video
+ https://anu200620.github.io/project-1/
 
 The demo video demonstrates the chatbot interface and its basic interactions.
 
