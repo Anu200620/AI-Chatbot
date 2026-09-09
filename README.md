@@ -60,7 +60,7 @@ Help
 Bye
 
 🎥 Demo Video
-▶️ Watch Demo Video
+▶️ Watch Demo VideO
 
 The demo video demonstrates the chatbot interface and its basic interactions.
 
@@ -86,7 +86,7 @@ Simple and beginner-friendly implementation
 📱 Improved mobile experience
 
 👩‍💻 Author
-Anushya
+Anushya V
 Final-Year Computer Science and Engineering Student
 Technologies
 HTML CSS JavaScript
