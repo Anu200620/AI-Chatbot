@@ -62,10 +62,6 @@ Try asking the bot:
 - Help
 - Bye
 
-## 🎥 Demo Video
-
-▶️ [Watch Demo Video](./demo.MP4)
-
 ## 📸 Screenshot
 
 ![AI Chat Assistant](./screenshot.jpeg)
