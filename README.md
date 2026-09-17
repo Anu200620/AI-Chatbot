@@ -50,8 +50,7 @@ AI-Chatbot/
     start index.html
 
 ## 🌐 Live Demo
-
-🔗 [https://anu200620.github.io/AI-Chatbot/](https://anu200620.github.io/AI-Chatbot/)
+https://ai-chatbot-gamma-two-58.vercel.app/
 
 ## 💬 Sample Queries
 
